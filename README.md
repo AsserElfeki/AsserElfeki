@@ -17,7 +17,7 @@
     
     **Artificial intelligence Neural network** - *Pytorch*
     
-    **A clinic with lab managment system web application** - *React.js - Nest.js - Prisma*
+    **A clinic with lab managment system web application** - *React.js - Next.js - Prisma*
 
 - 🌱 currently learning **Next.js - Nest.js - Firebase**
 
