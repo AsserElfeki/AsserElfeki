@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working on: 
 
-    **A Study-in-poland community website** - *React.js Node.js*
+    **A Study-in-poland community website** - *React.js, Next.js, Prisma, OAuth, ...*
     
-    **Artificial intelligence Neural network** - *Pytorch*
+    **Facial Expression classification - Computer Vision Machine Learning** - *Pytorch*
     
     **A clinic with lab managment system web application** - *React.js - Next.js - Prisma*
 
@@ -24,8 +24,6 @@
 - 👯 looking to collaborate on **fullstack projects (React - Vue - Node)**
 
 - 👨‍💻 All of my projects are available in my [Repositories](https://github.com/AsserElfeki?tab=repositories)
-
-- 💬 Ask me about **Vue - Nuxt**
 
 - 📫 How to reach me **asser.elfeki@gmail.com**
 
@@ -56,14 +54,14 @@
 
 - [Books Exchange store](https://boookzexchange.store/) - [visit repo](https://github.com/AsserElfeki/Instant_Book_exchange#readme):  A Marketplace where authenticated users can add book titles they want to trade in, look for interesting books in their area, start a transaction to swap books and leave a rating afterwards.
 
-- [Weather App](https://asserelfeki.github.io/Weather-App-landing-page/) - [visit repo](https://github.com/AsserElfeki/Weather-App-landing-page/blob/master/README.md):
-Responsive landing page for a weather app.
-
 - [Food Ordering](https://nuxt-food-asser.netlify.app/) - [visit repo](https://github.com/AsserElfeki/nuxtfood#readme): 
 Store for food ordering using Nuxt.js and Vue.js.
 
 - [Alien Imposter game](https://alienimposter-game.netlify.app/) - [visit repo](https://github.com/AsserElfeki/aliengame-using-vue.js#readme): 
 Fun guessing game using Vue.js 
+
+- [Weather App](https://asserelfeki.github.io/Weather-App-landing-page/) - [visit repo](https://github.com/AsserElfeki/Weather-App-landing-page/blob/master/README.md):
+Responsive landing page for a weather app.
 
 <br>
 
